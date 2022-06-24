@@ -11,4 +11,6 @@
     <string name="register_phoneNumber_input_content_description_end_icon">Phone Number</string>
     <string name="register_password_input_hint">Password</string>
     <string name="register_password_input_content_description_end_icon">Password</string>
+    <string name="login_title">Login</string>
+
 </resources>
