@@ -39,7 +39,7 @@ public class HomeActivity extends AppCompatActivity {
         dialogButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                MaterialAlertDialogBuilder builder = new MaterialAlertDialogBuilder(HomeActivity.this, );
+                MaterialAlertDialogBuilder builder = new MaterialAlertDialogBuilder(HomeActivity.this);
                 builder.setTitle("Alert Dialog");
                 builder.setMessage("This is a simple alert Dialog");
                 builder.setNeutralButton("Cancel", new DialogInterface.OnClickListener() {
