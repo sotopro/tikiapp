@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.Tikiapp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.Tikiapp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">#5941A9</item>
         <item name="colorPrimaryVariant">#6D72C3</item>
@@ -16,7 +16,7 @@
 
     <!-- Splash Screen -->
 
-    <style name="SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="SplashScreen" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="android:windowBackground">@drawable/background_splashscreen</item>
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
     </style>

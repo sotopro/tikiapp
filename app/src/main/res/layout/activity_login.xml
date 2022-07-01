@@ -58,7 +58,7 @@
             app:startIconDrawable="@drawable/ic_baseline_phone_android_24"
             app:startIconTint="@color/primary"
             app:startIconContentDescription="@string/register_phoneNumber_input_content_description_end_icon"
-            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            style="@style/Widget.Material3.TextInputLayout.OutlinedBox"
             app:boxStrokeColor="@color/primary"
             app:boxStrokeWidth="2dp"
 
@@ -76,7 +76,7 @@
             app:startIconDrawable="@drawable/ic_baseline_lock_24"
             app:startIconTint="@color/primary"
             app:startIconContentDescription="@string/register_password_input_content_description_end_icon"
-            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            style="@style/Widget.Material3.TextInputLayout.OutlinedBox"
             app:boxStrokeColor="@color/primary"
             app:boxStrokeWidth="2dp"
 
